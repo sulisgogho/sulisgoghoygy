@@ -1,0 +1,34 @@
+body {
+  background-color: rgb(5, 24, 44);
+}
+
+.nav-link {
+  margin-right: 30px;
+  font-weight: bold;
+}
+
+.navbar-nav {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.navbar {
+  background-color: rgba(5, 53, 126, 0);
+  padding-top: 0px;
+}
+
+.garis-vertikal {
+  border-left: 2px rgb(138, 136, 136) solid;
+  height: 30px;
+  width: 0px;
+}
+.garis-vertikal p {
+  margin-left: 10px;
+  color: aliceblue;
+  padding-top: 40px;
+  margin-top: 40px;
+}
+.container {
+  padding-top: 40px;
+  margin-top: 40px;
+}
